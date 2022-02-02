@@ -1,0 +1,35 @@
+body {
+    background-image: url(../img/background.png);
+}
+
+.logomarca {
+    width: 220px;
+}
+
+h1.titulo {
+    color: white;
+    font-size: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 3px 3px 3px #00000071;
+}
+
+.subtitulo {
+    color: white;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 3px 3px 3px #00000071;
+}
+
+section {
+    padding-top: 300px;
+    padding-bottom: 300px;
+    text-align: center;
+    margin: auto;
+}
+
+footer {
+    color: white;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 3px 3px 3px #00000071;
+}
